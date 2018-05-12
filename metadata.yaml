@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9082'
     url: http://www.gutenberg.org/2009/agents/9082
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20105#The-Land-We-Live-InThe-Story-of-Our-Country
 gutenberg_bookshelf: Children's History
 gutenberg_issued: '2006-12-13'
 gutenberg_type: Text
